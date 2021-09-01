@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"sp",
+				"samp\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"trans",
+				"translateY()\ttransform"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"Q",
+				"Qualification-bar"
+			],
+			[
+				"pro",
+				"progress-bar"
+			],
+			[
+				"ski",
+				"skill-bar"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"b",
+				"background-position\tproperty"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"cs",
+				"css"
+			],
+			[
+				"style",
+				"stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Local User/Documents/New WEB/style.css",
+		"/C/Program Files/TxGameAssistant/AppMarket/AppMarket.exe",
+		"/C/Users/Local User/Documents/New WEB/index.html",
+		"/C/Users/Local User/Desktop/html/ist/style.css",
+		"/C/Users/Local User/Desktop/html/ist/ist.html",
+		"/C/Users/Local User/Desktop/html/animation/animation.html",
+		"/C/Users/Local User/Desktop/html/table pic/t2.html",
+		"/C/Users/Local User/Desktop/html/animated/style.css",
+		"/C/Users/Local User/Desktop/html/animated/animation.html",
+		"/C/Users/Local User/Desktop/html/animation/style.css",
+		"/C/Users/Local User/Desktop/html/my profile/style.css",
+		"/C/Users/Local User/Desktop/html/my profile/my profile.html",
+		"/C/Users/Local User/Desktop/html/profile.html",
+		"/C/Users/Local User/Desktop/html/profile/style.css",
+		"/C/Users/Local User/Desktop/html/transparent login/trans.html",
+		"/C/Users/Local User/Desktop/html/transparent login/style.css",
+		"/C/Users/Local User/Desktop/html/login/style.css",
+		"/C/Users/Local User/Desktop/html/login/login.html",
+		"/C/Users/Local User/Desktop/html/rapid.html",
+		"/C/Users/Local User/Desktop/html/header/IMAGE/style.css",
+		"/C/Users/Local User/Desktop/html/background.html",
+		"/C/Users/Local User/Desktop/html/index.html",
+		"/C/Users/Local User/Desktop/html/style.css",
+		"/C/Users/Local User/Desktop/html/header/index.html",
+		"/C/Users/Local User/Desktop/html/self informaton.html",
+		"/C/Users/Local User/Desktop/html/indexx.html",
+		"/C/Users/Local User/Desktop/html/index.html.txt",
+		"/C/Users/Local User/Desktop/html/html.index.txt",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
